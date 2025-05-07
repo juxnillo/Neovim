@@ -15,5 +15,5 @@ git clone https://github.com/juxnillo/Neovim ~/nvim
 cd ~/nvim
 ```
 # Dependencies 🔴
-everything its intsalled with lazy.nvim the lazy.lua have an auto-installer for it ✅
+*everything its installed with lazy.nvim the lazy.lua have an auto-installer for it* ✅
 
