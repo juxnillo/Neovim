@@ -5,6 +5,7 @@
 ![Preview](https://raw.githubusercontent.com/juxnillo/Neovim/refs/heads/main/preview.png)
 
 Theme: Tokyo night
+
 Plugins: nvim-tree, lualine, telescope, nvim-lspconfig, nvim-cmp, luasnip
 
 # Install
